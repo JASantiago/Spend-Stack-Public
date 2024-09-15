@@ -2272,6 +2272,7 @@
 				ORGANIZATIONNAME = "Jordan Morgan";
 				TargetAttributes = {
 					148E959D176562C4001DB364 = {
+						DevelopmentTeam = RU5UU3CA89;
 						LastSwiftMigration = 1120;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -2294,22 +2295,22 @@
 					};
 					172AAC6324DD9CDE0009EF7F = {
 						CreatedOnToolsVersion = 12.0;
-						DevelopmentTeam = FP3H5HJ469;
+						DevelopmentTeam = RU5UU3CA89;
 						ProvisioningStyle = Automatic;
 					};
 					176C929D24F01F7400522295 = {
 						CreatedOnToolsVersion = 12.0;
-						DevelopmentTeam = FP3H5HJ469;
+						DevelopmentTeam = RU5UU3CA89;
 						ProvisioningStyle = Automatic;
 					};
 					176C92B124F04FFE00522295 = {
 						CreatedOnToolsVersion = 12.0;
-						DevelopmentTeam = FP3H5HJ469;
+						DevelopmentTeam = RU5UU3CA89;
 						ProvisioningStyle = Automatic;
 					};
 					17DCE58324F84976001E16A9 = {
 						CreatedOnToolsVersion = 12.0;
-						DevelopmentTeam = FP3H5HJ469;
+						DevelopmentTeam = RU5UU3CA89;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -3056,7 +3057,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3072,7 +3073,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "$(inherited)";
 				"OTHER_SWIFT_FLAGS[arch=*]" = "-D DEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack;
 				PRODUCT_NAME = "Spend Stack 2";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3100,7 +3101,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -3115,7 +3116,7 @@
 				MARKETING_VERSION = 1.3.4;
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack;
 				PRODUCT_NAME = "Spend Stack 2";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -3150,7 +3151,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				ENABLE_BITCODE = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -3160,7 +3161,7 @@
 				MARKETING_VERSION = 1.3.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack.SubscriptionsWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack.SubscriptionsWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -3194,7 +3195,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				ENABLE_BITCODE = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -3204,7 +3205,7 @@
 				MARKETING_VERSION = 1.3.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack.SubscriptionsWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack.SubscriptionsWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -3237,7 +3238,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				ENABLE_BITCODE = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -3247,7 +3248,7 @@
 				MARKETING_VERSION = 1.3.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack.TagInsights;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack.TagInsights;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -3279,7 +3280,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				ENABLE_BITCODE = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -3289,7 +3290,7 @@
 				MARKETING_VERSION = 1.3.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack.TagInsights;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack.TagInsights;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -3318,7 +3319,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
@@ -3327,7 +3328,7 @@
 				MARKETING_VERSION = 1.3.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack.TagSearchIntent;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack.TagSearchIntent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
@@ -3358,7 +3359,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
@@ -3367,7 +3368,7 @@
 				MARKETING_VERSION = 1.3.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack.TagSearchIntent;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack.TagSearchIntent;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -3393,12 +3394,11 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_ENTITLEMENTS = "Widgets/List Insights Widget/ListInsightsWidgetExtension.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
@@ -3407,8 +3407,9 @@
 				MARKETING_VERSION = 1.3.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack.ListInsightsWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack.ListInsightsWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -3434,12 +3435,11 @@
 				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
 				CODE_SIGN_ENTITLEMENTS = "Widgets/List Insights Widget/ListInsightsWidgetExtension.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEVELOPMENT_TEAM = FP3H5HJ469;
+				DEVELOPMENT_TEAM = RU5UU3CA89;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
@@ -3448,8 +3448,9 @@
 				MARKETING_VERSION = 1.3.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = com.dreaminginbinary.spendstack.ListInsightsWidget;
+				PRODUCT_BUNDLE_IDENTIFIER = com.conejo.spendstack.ListInsightsWidget;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
